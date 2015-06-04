@@ -1,7 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
+using TeamCityDemo;
 
-[assembly: OwinStartupAttribute(typeof(TeamCityDemo.Startup))]
+[assembly: OwinStartup(typeof(Startup))]
 namespace TeamCityDemo
 {
     public partial class Startup
