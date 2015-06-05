@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{45C754
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityDemo.Tests", "TeamCityDemo.Tests\TeamCityDemo.Tests.csproj", "{0166A6B8-1FA5-4F07-9CE4-4C1C382C9BD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{544D8E0B-EBFD-4219-B5C5-4AA9E72C89D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{544D8E0B-EBFD-4219-B5C5-4AA9E72C89D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{544D8E0B-EBFD-4219-B5C5-4AA9E72C89D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0166A6B8-1FA5-4F07-9CE4-4C1C382C9BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0166A6B8-1FA5-4F07-9CE4-4C1C382C9BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0166A6B8-1FA5-4F07-9CE4-4C1C382C9BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0166A6B8-1FA5-4F07-9CE4-4C1C382C9BD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
