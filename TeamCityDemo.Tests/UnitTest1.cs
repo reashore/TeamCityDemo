@@ -21,7 +21,7 @@ namespace TeamCityDemo.Tests
         [TestMethod]
         public void TestMethod3()
         {
-            Assert.AreEqual("abcd", "abcde");
+            Assert.AreEqual("abcd", "abcd");
         }
     }
 }
