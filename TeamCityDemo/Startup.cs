@@ -3,6 +3,7 @@ using Owin;
 using TeamCityDemo;
 
 [assembly: OwinStartup(typeof(Startup))]
+
 namespace TeamCityDemo
 {
     public partial class Startup
