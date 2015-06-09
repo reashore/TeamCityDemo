@@ -23,5 +23,6 @@ namespace TeamCityDemo.Tests
         {
             Assert.AreEqual("abcd", "abcd");
         }
+
     }
 }
